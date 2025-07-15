@@ -21,4 +21,4 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/CSE-Battle.git
+   git clone https://github.com/apuorgho/CSE-Battle.git
