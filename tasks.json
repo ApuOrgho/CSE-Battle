@@ -1,0 +1,25 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build CSE Battle",
+      "type": "shell",
+      "command": "g++",
+      "args": [
+        "-IC:\\path\\to\\CSE-Battle\\include",
+        "src/iMain.cpp",
+        "-LC:\\path\\to\\CSE-Battle\\lib",
+        "-lglut32",
+        "-lglu32",
+        "-lopengl32",
+        "-o",
+        "CSE-Battle.exe"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": ["$gcc"]
+    }
+  ]
+}

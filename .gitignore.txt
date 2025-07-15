@@ -1,0 +1,31 @@
+# Ignore Visual Studio build folders and files
+Debug/
+Release/
+x64/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+*.suo
+*.user
+*.VC.db
+*.ipch
+*.aps
+*.ncb
+*.cache
+*.tlog
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.old
+
+# Ignore CMake or custom build system files
+CMakeFiles/
+CMakeCache.txt
+Makefile
+
+# Ignore crash dumps or core dumps
+core.*
+*.stackdump
