@@ -1,6 +1,6 @@
 # 🎮 CSE Battle
 
-**CSE Battle** is a 2D game developed as a first-year second-semester project for the CSE department. It uses **OpenGL** and **GLUT** libraries for rendering graphics and user interactions.
+**CSE Battle** is a 2D game developed as a first-year second-semester project for the course Software Development-I. It uses **OpenGL** and **GLUT** libraries for rendering graphics and user interactions.
 
 ## 📁 Project Structure
 
